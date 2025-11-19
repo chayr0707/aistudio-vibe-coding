@@ -1,0 +1,5 @@
+{
+  "name": "VibeShare",
+  "description": "프롬프트, 빌더 URL, 리포지토리, 배포 링크를 포함한 Vibe Coding 결과물을 공유하는 중앙 플랫폼입니다. AI 기반 메타데이터 생성 기능을 제공합니다.",
+  "requestFramePermissions": []
+}
